@@ -484,6 +484,7 @@
     <script src="https://assets.wesales.online/js/components/hs.carousel.js"></script>
     <script src="https://assets.wesales.online/js/components/hs.go-to.js"></script>
     <script src="https://assets.wesales.online/js/components/hs.onscroll-animation.js"></script>
+    <script src="https://assets.wesales.online/js/footer-v1.js"></script>
 
     <!-- JS Customization -->
     <script src="assets/js/custom.js"></script>
